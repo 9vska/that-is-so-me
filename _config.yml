@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: This is SoMe
+title: This is #SoMe
 locale: en_US
-description: Social media. Straight-forward. Succinct.
+description: Social media.  Straight-forward.  Succinct.
 logo: site-logo.png
 search: true
 url: http://9vska.github.io/this-is-so-me
