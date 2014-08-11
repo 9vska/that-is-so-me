@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: This is #SoMe
 locale: en_US
-description: Describe your website here.
+description: Social media. Straight-forward. Succinct.
 logo: site-logo.png
 search: true
 url: http://9vska.github.io/this-is-so-me
@@ -36,7 +36,7 @@ owner:
   avatar: bio-photo.jpg
   email: #you@email.com
   disqus-shortname:
-  twitter: #username
+  twitter: 9VSKA
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
